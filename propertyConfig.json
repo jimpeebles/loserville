@@ -1,0 +1,48 @@
+{
+  "id": "OdJK3phW9oM1pR13GR5D",
+  "name": "Loserville",
+  "topicFocus": "stuff that is generally considered uncool",
+  "tone": "satirical",
+  "writerPersona": "dismissive know-it-all that hates everything",
+  "description": "The source for all the things that make you a loser",
+  "siteTitle": "Loserville",
+  "logoUrl": "https://images.unsplash.com/vector-1738293681271-4a36c9ae10c6?q=80&w=2360&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "themeColors": {
+    "primary": "#BB86FC",
+    "secondary": "#03DAC6",
+    "background": "#121212",
+    "accent": "#CF6679"
+  },
+  "fontFamily": "sans-serif",
+  "headerImageUrl": "",
+  "faviconUrl": "",
+  "contactEmail": "",
+  "socialLinks": {
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": ""
+  },
+  "advertising": {
+    "enabled": false,
+    "provider": "",
+    "adUnitIds": []
+  },
+  "analytics": {
+    "googleAnalyticsId": "",
+    "facebookPixelId": ""
+  },
+  "externalServices": {
+    "weatherApi": {
+      "enabled": false,
+      "apiKey": ""
+    },
+    "stockTicker": {
+      "enabled": false,
+      "apiKey": ""
+    }
+  },
+  "createdAt": "2025-02-03T08:52:20.432Z",
+  "propertyId": "loserville"
+}
