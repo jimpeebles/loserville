@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "shttr-news",
+  "private_key_id": "0ae08202ecfbd3bcfdc8c9e1a210866de2d4f2ef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDn8xshyBWkOnrB\n3miONtHcGnGGGR73ha7NromtCP4tb2W8XO0vVAB+dHAgUXZpEF6Tmn9wHH74+3mb\nK1821BALi913Y06lvBv+9rDHoygOpOsKvI81F+IKOADnbMxuqIliOtDTBo2i4ZzS\nOSh+dTiz0CujBq9QcB3jIB/PBn6d9/UcvZRekdzGD2lHJ+ypyPNe2ocNBqzwhDhl\nBcgxXWGeJeSWexjkrx7uwxQpbtJeCd2Dpax9ommtWULZeb+LqRaKxww54Hnz+P4O\nkF5PUdHgTQdFPGVvlYv/QeT9UziOhW3IvAkmoBMRNANpySA2mIMQ2HZUaYBLoDGl\nO0XhwcdnAgMBAAECggEAJpS8XZkfaGrFwnuRHp6lt5u6aFjDWt6knde7VMnbJYmS\n/YrjdOzfDCmoAOgr7vvnD1wyeF51DEsgBhxnwQHzDUiddN9S1KR+b6Fu9DYCUrVB\n105X77fiRFreY6AoPPvRpkIsO/2qD37BjAIv5yDuZpJov7w76wBLKF1OjSwCYZns\n0zAnkWhbuhINrJSdLA7W3ZTC9XbYoWeH0WqXRoSFVCwArrVJ5jubZB7a1YkpIFfy\nxzzod9IYRV7y57wPX+asWhsuUvWyJYbJilPaf8uD51ck8SllhDu5bNBmxwvKzbTL\nJgaJLGv5kYehLvR2sxCv62xV6lIesc8yFPhld+B+GQKBgQD7mry03MoLSrr4zwQM\nbUwGNrrjAeYvL+DRCWi4ugIr1sCuVkUt8bHCCcvWXQ4iN51ZlZu8nqWoJ8Yo27/Y\ncqqiDRM0xf5pKW6fjB6c6IJEXoSlVxYNa3Ou8JJR+hNF646xRzZPAxoBRWPIZLeO\n9W3KKuPESFLhJZ58si0JtRoR8wKBgQDsAHc3EN7saG4pEBNNTderslwTfl4uguUV\nYEz8pya0CVq3y7rw2twSPrFUkZjetQp9a52WnUoENKSvQ22BpbWf/R1YcotEEz+w\nLzsitFTU/vOoNgDM4bLuxnPvLV3qwfjmeevCwie78zEJ5p44wQ1YEh+XzNJIWlry\n64eLJR4dvQKBgAKGsTJXrSej3nC1E2NUjZjaX9H7qOX8YxN2Nrj0FSV/iHu3ngYy\nEQjTtFo4oPWy/T9zAxdHuH4RuCmc2zY/IHt0CidTfZRsuBGeBIiqxPQOxuIqF6yW\n0ZiGDdII4rym+s3I20C71T0CB1hxum4TBMEs4RCNcVeVWxwBZfZc/SAFAoGBAMTY\n/pcns0ltMbV+exsXurSz6Kk51kTlWT8jPBPhOB8jTk/P1vXfF4EAWdk4OFJKn51N\njfx65ansXxDxJP3mwj/YWAnWQONfStgiDSk9UST4IzRDFxfNifov/bOaG6QcdweG\n2mdwmsPibRzdB0w/emnjdAaiCSPgecv1OPGO3DfhAoGAWhRJHTQ7YHkR0A3oTs/d\ncrgzPrezkRDC1MpKr3LgbjPvg9uiCNf/ybrNfc4roskh7Kx+gbWfJVcDtiJKroYh\n6hfjUdiCXIsZbLxc7GOUkcjy65J7VL7geGUnmG+kPRlRd9Iad4M4NSRg5QV0Hmtv\nbI/XWX2LaA/M4mYq+k/ZMIU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@shttr-news.iam.gserviceaccount.com",
+  "client_id": "108931346357190932655",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40shttr-news.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
